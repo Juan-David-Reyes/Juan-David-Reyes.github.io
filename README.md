@@ -44,8 +44,10 @@ Types:
 - api → backend services
 - ui → component libraries
 - lab → experiments and tests
+- email → emails templates
 
 Examples:
 - web-codigo-nativo-nextjs
 - app-cliente-x-dashboard
 - api-codigo-nativo-node
+- email-cliente-html
